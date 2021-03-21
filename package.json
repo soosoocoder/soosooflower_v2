@@ -1,0 +1,11 @@
+{
+  "name": "sooflower",
+  "version": "1.0.0",
+  "description": "Website to upload my flower pictures and videos",
+  "main": "index.js",
+  "author": "Soo Hyun Lee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
